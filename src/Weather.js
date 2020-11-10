@@ -18,7 +18,12 @@ export default function Weather() {
       <Temperature />
       <hr />
       <Forecast />
+      <footer>
+     <a href="https://github.com/BoDC/weather-react" target= "_blank">Open-source code </a>
+      by Bo
+   </footer>
     </div>
-  );
+    
+  ); 
 }
    
