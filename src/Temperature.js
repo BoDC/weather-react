@@ -9,11 +9,11 @@ export default function Temperature() {
         14
       </span>
       <span className="units">
-        <a  id="celsius">
+        <a href='/'id="celsius">
           °C
         </a>
         <small className="stripe">|</small>
-        <a  id="fahrenheit">
+        <a href='/'id="fahrenheit">
           °F
         </a>
       </span>
