@@ -19,7 +19,7 @@ export default function Weather() {
       <hr />
       <Forecast />
       <footer>
-     <a href="https://github.com/BoDC/weather-react" target= "_blank">Open-source code </a>
+     <a href="https://github.com/BoDC/weather-react" target= "_blank" rel="noreferrer" >Open-source code </a>
       by Bo
    </footer>
     </div>
