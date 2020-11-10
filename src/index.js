@@ -8,6 +8,7 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
     <Weather />
+   
   </React.StrictMode>,
   rootElement
 );
