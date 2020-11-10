@@ -1,0 +1,53 @@
+.fa-sun {
+    position: relative;
+    font-size: 90px;
+    color: white;
+  }
+  
+  .float-left {
+    position: relative;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .temperature {
+    margin-left: 30px;
+    margin-top: -20px;
+    font-size: 40px;
+    color: white;
+    font-weight: bolder;
+  }
+  
+  .stripe {
+    position: relative;
+    top: -10px;
+    font-size: 15px;
+    color: #212529;
+  }
+  
+  #celsius {
+    position: relative;
+    top: -14px;
+    color: #212529;
+    font-weight: bolder;
+    margin-bottom: -20px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  #fahrenheit {
+    position: relative;
+    top: -14px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #212529;
+    cursor: pointer;
+  }
+  
+  #celsius:hover {
+    color: #edeef2;
+  }
+  
+  #fahrenheit:hover {
+    color: #edeef2;
+  }

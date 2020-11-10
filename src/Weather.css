@@ -1,0 +1,21 @@
+body {
+    font-family: "Bebas Neue", cursive;
+  }
+  .container {
+    max-width: 400px;
+    height: 500px;
+    padding: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4a7496;
+    margin-top: 50px;
+  }
+  
+  hr {
+    width: 100%;
+    border: 1px solid #edeef2;
+    margin: 180px 0px 50px 0px;
+  }
+  
+  
+  
